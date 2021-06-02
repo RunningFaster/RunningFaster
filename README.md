@@ -1,5 +1,7 @@
 ### Hi there，this is BBBBig man Jamie's Github, working on Python job 666666 👋👋👋 papapapa!!!
 
+https://img.shields.io/pypi/djversions/2.2
+
 <!--
 **RunningFaster/RunningFaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
